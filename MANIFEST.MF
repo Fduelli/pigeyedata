@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: C:\Users\duell\OneDrive\Desktop\pigeyedata\bin\pigeyedata\AlphaBetaAnalysis.class
+Class-Path: C:\Users\duell\OneDrive\Desktop\Jar projects\poi-3.17.jar C:\Users\duell\OneDrive\Desktop\Jar projects\commons-collections4-4.1.jar C:\Users\duell\OneDrive\Desktop\Jar projects\poi-ooxml-schemas-3.17.jar C:\Users\duell\OneDrive\Desktop\Jar projects\poi-ooxml-3.17.jar C:\Users\duell\OneDrive\Desktop\Jar projects\xmlbeans-2.6.0.jar
